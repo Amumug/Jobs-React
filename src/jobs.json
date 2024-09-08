@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "jobName": "Senior React Developer",
+      "location": "Boston, MA",
+      "programmingLanguages": ["HTML", "CSS", "JavaScript", "React", "Angular"],
+      "experience": 5,
+      "typeWork": "Full-Time"
+    },
+    {
+      "id": "2",
+      "jobName": "Front-End Engineer (React & Redux)",
+      "location": "Miami, FL",
+      "programmingLanguages": ["React", "Redux"],
+      "experience": 3,
+      "typeWork": "Full-Time"
+    },
+    {
+      "id": "3",
+      "jobName": "React.js Dev",
+      "location": "Brooklyn, NY",
+      "programmingLanguages": ["JavaScript", "React"],
+      "experience": 3,
+      "typeWork": "Full-Time"
+    },
+    {
+      "id": "4",
+      "jobName": "React Front-End Developer",
+      "location": "Phoenix, AZ",
+      "programmingLanguages": ["JavaScript", "React"],
+      "experience": 2,
+      "typeWork": "Part-Time"
+    },
+    {
+      "id": "5",
+      "jobName": "Full Stack React Developer",
+      "location": "Atlanta, GA",
+      "programmingLanguages": ["JavaScript", "React", "Node.js"],
+      "experience": 5,
+      "typeWork": "Full-Time"
+    },
+    {
+      "id": "6",
+      "jobName": "React Native Developer",
+      "location": "Portland, OR",
+      "programmingLanguages": ["React Native", "JavaScript"],
+      "experience": 5,
+      "typeWork": "Full-Time"
+    }
+  ]
+}
